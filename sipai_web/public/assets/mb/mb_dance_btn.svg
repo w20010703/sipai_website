@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: NotoSansCJKjp-Black-83pv-RKSJ-H, 'Noto Sans CJK JP';
+        font-size: 30px;
+        font-weight: 800;
+        letter-spacing: .16em;
+      }
+
+      .cls-2 {
+        fill: #00a7a8;
+        filter: url(#drop-shadow-1);
+        stroke-width: 0px;
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="11.03"/>
+      <feGaussianBlur result="blur" stdDeviation="0"/>
+      <feFlood flood-color="#0c6866" flood-opacity="1"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_單元二_互動身心量充電站" data-name="單元二_互動身心量充電站">
+    <g>
+      <rect class="cls-2" x="0" y="0" width="350" height="100" rx="50" ry="50"/>
+      <text class="cls-1" transform="translate(53 63.82)"><tspan x="0" y="0">快來舞動好心情</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Directory containing the files
+DIRECTORY="../sipai_web/public/video"
+
+# Pick 3 random files from the directory
+FILES=$(ls "$DIRECTORY" | shuf -n 4)
+
+# Convert the string into an array
+IFS=$'\n' read -rd '' -a FILE_ARRAY <<< "$FILES"
+
+# Print the names of the files
+echo file "../sipai_web/public/video/${FILE_ARRAY[0]}" > video_list.txt
+echo file "../sipai_web/public/video/${FILE_ARRAY[1]}" >> video_list.txt
+echo file "../sipai_web/public/video/${FILE_ARRAY[2]}" >> video_list.txt
+echo file "../sipai_web/public/video/${FILE_ARRAY[3]}" >> video_list.txt
+
+ffmpeg -f concat -safe 0 -y -i video_list.txt -c copy ../sipai_web/public/output.mp4

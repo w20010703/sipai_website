@@ -1,0 +1,13 @@
+curl --location 'https://api.pawan.krd/v1/chat/completions' \
+--header 'Authorization: Bearer pk-tXoUallRMArfQOTeiCZdgQLhZadrUzchZUsCnzqbqDgfgfBy' \
+--header 'Content-Type: application/json' \
+--data '{
+    "model": "pai-001-beta",
+    "max_tokens": 100,
+    "messages": [
+        {
+            "role": "user",
+            "content": "Hello"
+        }
+    ]
+}' > output.txt

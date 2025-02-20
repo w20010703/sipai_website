@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 591.45 141.83">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #00a7a8;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="_單元二_互動_身_心能量充電站_活動頁面" data-name="單元二_互動_身、心能量充電站_活動頁面">
+    <g>
+      <path class="cls-2" d="m3.14,3.71s9.48,11.96,26.76,15.13c17.29,3.18-3.8,26.37-3.8,26.37,0,0-25.24-11.98-22.97-41.5Z"/>
+      <rect class="cls-1" x="10.56" y="3" width="577.89" height="135.83" rx="67.91" ry="67.91"/>
+    </g>
+  </g>
+</svg>

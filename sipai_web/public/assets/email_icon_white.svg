@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #119f9f;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="footer">
+    <g>
+      <circle class="cls-2" cx="20" cy="20" r="20"/>
+      <rect class="cls-1" x="9.86" y="12.71" width="20.28" height="14.57" rx="2.74" ry="2.74"/>
+      <path class="cls-1" d="m29.95,15.72l-9.95,4.52-9.95-4.52"/>
+    </g>
+  </g>
+</svg>

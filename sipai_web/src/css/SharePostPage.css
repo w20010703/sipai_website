@@ -1,0 +1,99 @@
+
+#body {
+	font-family: 'Noto Sans Japanese';
+  	font-weight: 700;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+
+.share_story_p3_section {
+	margin-top: 11.08vw;;
+	width: 100%;
+	height: 81.32vw;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+.mb_share_story_p3_section {
+	margin-top: 20vw;
+	width: 100%;
+	height: 213.84vw;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}
+.share_story_p3_bg {
+	width: 100%;
+}
+
+
+
+
+
+.share_btn_holder {
+	margin-top: -19.3vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 14.3vw;
+	height: 5.7vw;
+}
+.share_btn_holder img {
+	width: 5.7vw;
+	height: 5.7vw;
+}
+.mb_share_btn_holder {
+	margin-top: -58.7vw;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	width: 35vw;
+	height: 13.3vw;
+}
+.mb_share_btn_holder img {
+	width: 13.3vw;
+	height: 13.3vw;
+}
+
+
+
+
+
+
+
+.share_btn {
+	margin-top: 4.4vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+.share_btn img{
+	width: 16.42vw;
+}
+.mb_share_btn {
+	margin-top: 25vw;
+	margin-left: auto;
+	margin-right: auto;
+}
+.mb_share_btn img{
+	width: 30.6vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
